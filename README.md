@@ -6,5 +6,6 @@ This repository contains Data Analysis and Data Manipulations concepts in Python
 
 ## Contents
 
-  * Theoretical Concepts:
-      * [Merging DataFrames with pandas](https://github.com/Ravjot03/Merging-DataFrames-with-pandas)
+ - ### Theoretical Concepts:
+   * [Merging DataFrames with pandas](https://github.com/Ravjot03/Merging-DataFrames-with-pandas):
+  
