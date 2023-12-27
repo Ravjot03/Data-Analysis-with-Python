@@ -7,6 +7,10 @@ This repository contains Data Analysis and Data Manipulations concepts in Python
 ## Contents
 
  - ### Theoretical Concepts:
+
+   * [Exploratory Data Analysis with Python](https://github.com/Ravjot03/Exploratory-Data-Analysis-with-Python):
+    
+    
    * [Merging DataFrames with pandas](https://github.com/Ravjot03/Merging-DataFrames-with-pandas):
    This jupyter notebook is all about the act of combining- or merging- DataFrames. Also, how to handle multiple DataFrames by combining, organizing, joining, and reshaping        them using pandas.
  
